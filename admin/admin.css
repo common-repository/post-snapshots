@@ -1,0 +1,8 @@
+.pos-pm-action a {
+    text-decoration: none;
+}
+
+.pos_snapshot_delete {
+    font-style: italic;
+    color: #d11;
+}
